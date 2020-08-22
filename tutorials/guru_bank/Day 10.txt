@@ -1,0 +1,32 @@
+Hey there,
+
+
+
+Here is the  link
+
+https://clicks.aweber.com/y/ct/?l=5Cp4_&m=42YUgdy7NEEWDy9&b=KaxO80opi.vN_fqxvl582w
+ to the System Test plan created by our experts.
+
+
+
+Version 3 of the site is now available at
+
+https://clicks.aweber.com/y/ct/?l=5Cp4_&m=42YUgdy7NEEWDy9&b=5PQJPT_BYPk_CnByuP08TQ
+
+
+
+You can use the same Manager login credentials you used for version 1.
+
+
+
+For customer login credentials,
+
+1. Login as a Manager
+2. Create a customer.
+3. Note the customer id and password
+4. Go To
+
+   https://clicks.aweber.com/y/ct/?l=5Cp4_&m=42YUgdy7NEEWDy9&b=5PQJPT_BYPk_CnByuP08TQ
+   and login with above credentials
+
+Happy Testing

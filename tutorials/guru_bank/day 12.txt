@@ -1,0 +1,15 @@
+Hey QA Ninja,
+
+
+The final release of the website is now available.
+
+https://clicks.aweber.com/y/ct/?l=5Cp4_&m=43wA2MTINEEWDy9&b=oMfPafAT3fwfnplOc9_sFA
+
+
+
+Login Credentials
+
+ • Manage Id - use the id given to you since version 1
+ • Customer Id - use the id you created in version 3. You can also create new id's in version 4
+
+Retest the failed test cases and update the bug tracker.

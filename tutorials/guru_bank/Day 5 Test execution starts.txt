@@ -1,0 +1,19 @@
+Hi,
+
+Here is a link to the first version of the Banking Site.
+
+https://clicks.aweber.com/y/ct/?l=5Cp4_&m=3ux_SObJpEEWDy9&b=X2x1Q6bkf4ctXZErvwxLug
+
+Go ahead and execute your test cases on this site.
+
+But wait!
+
+You need login credentials to access this site. To get access
+
+1. Visit -
+
+   https://clicks.aweber.com/y/ct/?l=5Cp4_&m=3ux_SObJpEEWDy9&b=QgL8A41rghp3QF72LZV5CA
+
+2. Enter your email id
+3. Login credentials for the manager is allocated to you & displayed onscreen. Credentials also sent at your email id.
+4. Login credentials are only valid for 20 days! So Hurry and execute your test cases. Find as many bugs as you can!

@@ -1,0 +1,28 @@
+Hey QA Ninja,
+
+
+Developers claim to fix all bugs you reported in version 1 and have added the Balance enquiry module to version 2.
+
+
+
+Go ahead and re-run your failed test cases.
+
+
+
+Link to version 2 of the site
+
+https://clicks.aweber.com/y/ct/?l=5Cp4_&m=44yosWUiZEEWDy9&b=hADTs21M3uuOX3ro7VWMwA
+
+
+
+Use the login credentials you have already generated for version 1.
+
+
+
+Also, check the balance enquiry module for the first time!
+
+
+
+See you tomorrow!
+
+Happy Testing
